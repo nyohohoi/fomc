@@ -14,6 +14,7 @@
 
 * 粒度高
 
-![PMI粒度低い](https://user-images.githubusercontent.com/78225829/155840264-501bd30e-7d60-4c48-8d99-66b77de88998.jpg)
+![プレゼンテーション1](https://user-images.githubusercontent.com/78225829/155877984-46ebc6c2-de5b-4d4c-93ae-16009ba87dd6.jpg)
+
 
  
